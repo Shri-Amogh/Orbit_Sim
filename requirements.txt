@@ -1,0 +1,8 @@
+### req.txt
+numpy
+scipy
+matplotlib
+plotly
+vpython
+skyfield
+jupyter
